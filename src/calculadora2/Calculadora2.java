@@ -20,6 +20,6 @@ public class Calculadora2 {
         return a * b;
     }
     public void fantasma(){
-        System.out.println("Sóc el mètode fantasma");
+        System.out.println("*11*");
     }
 }
