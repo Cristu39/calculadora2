@@ -10,4 +10,7 @@ public class Calculadora2 {
         
     }
     
+    public float suma(int a, int b){
+        return a + b;
+    }
 }
