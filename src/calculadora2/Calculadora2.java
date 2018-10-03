@@ -13,4 +13,7 @@ public class Calculadora2 {
     public float suma(int a, int b){
         return a + b;
     }
+    public float resta(int a, int b){
+        return a - b;
+    }
 }
