@@ -16,4 +16,7 @@ public class Calculadora2 {
     public float resta(int a, int b){
         return a - b;
     }
+    public float multiplicacio(int a, int b){
+        return a * b;
+    }
 }
