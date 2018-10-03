@@ -19,4 +19,7 @@ public class Calculadora2 {
     public float multiplicacio(int a, int b){
         return a * b;
     }
+    public void fantasma(){
+        
+    }
 }
